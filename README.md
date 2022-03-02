@@ -35,15 +35,10 @@
 
 [<img alt="codewars" src="https://www.codewars.com/users/umidullo/badges/large" />][codewars]
 
-<div style="display: flex; align-items: center; justify-content: space-between">
-<img style="height: 160px" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react" />
-<img style="height: 160px" alt="stats bagde" src="https://github-readme-stats.vercel.app/api?username=umidullo&show_icons=true&theme=react" />
+<div style="height: 200px; display: flex; align-items: center; justify-content: space-between">
+<img style="height: 100%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react" />
+<img style="height: 100%" alt="stats bagde" src="https://github-readme-stats.vercel.app/api?username=umidullo&show_icons=true&theme=react" />
 </div>
-
-
-<!-- ![Umidullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=umidullo&show_icons=true&theme=react) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react) -->
 
 [linkedin]: https://linkedin.com/in/umidullo
 [telegram]: https://t.me/umidullo

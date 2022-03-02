@@ -2,7 +2,6 @@
 
 ### I'm Front-end developer from Uzbekistan (Tashkent)
 
-
 ## 🤝 Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -18,7 +17,6 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
-
 
 ## 🛠 Tools:
 
@@ -37,10 +35,15 @@
 
 [<img alt="codewars" src="https://www.codewars.com/users/umidullo/badges/large" />][codewars]
 
+<div style="display: flex; align-items: center; justify-content: space-between">
+<img style="height: 160px" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react" />
+<img style="height: 160px" alt="stats bagde" src="https://github-readme-stats.vercel.app/api?username=umidullo&show_icons=true&theme=react" />
+</div>
+
+
 <!-- ![Umidullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=umidullo&show_icons=true&theme=react) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidullo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=online-zoo,Finance-Consult-Tashkent&theme=react) -->
 
 [linkedin]: https://linkedin.com/in/umidullo
 [telegram]: https://t.me/umidullo

@@ -6,6 +6,8 @@
 
 [![wakatime][wakatime_stats_img]][wakatime]
 
+![][github_stats]
+
 
 [linkedin_img]: https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [telegram_img]: https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white
@@ -17,3 +19,4 @@
 [telegram]: https://t.me/umidullo
 [codewars]: https://www.codewars.com/users/umidullo
 [wakatime]: https://wakatime.com/@umidullo
+[github_stats]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umidullo&theme=github_dark

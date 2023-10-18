@@ -1,12 +1,12 @@
 [![linkedin][linkedin_img]][linkedin]
 [![telegram][telegram_img]][telegram]
 
-[![codewars][codewars_img]][codewars]
-[![wakatime][wakatime_total_img]][wakatime]
+<!-- [![codewars][codewars_img]][codewars] -->
+<!-- [![wakatime][wakatime_total_img]][wakatime] -->
 
-[![wakatime][wakatime_stats_img]][wakatime]
+<!-- [![wakatime][wakatime_stats_img]][wakatime] -->
 
-![][github_stats]
+<!-- ![][github_stats] -->
 
 
 [linkedin_img]: https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
